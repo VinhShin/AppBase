@@ -1,0 +1,4 @@
+#Tue Jan 04 11:53:05 ICT 2022
+base.0=/Users/yongquan/Documents/Project/Private Project/base_app/build/app/intermediates/dex/app2Debug/mergeDexApp2Debug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
